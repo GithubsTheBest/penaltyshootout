@@ -1,2 +1,2 @@
 # penaltyshootout
-Java Project --> CPSC 233 --> PENALTY SHOOTOUT GAME
+Java Project --> PENALTY SHOOTOUT GAME
